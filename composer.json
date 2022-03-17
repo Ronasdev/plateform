@@ -1,0 +1,16 @@
+{
+    "name": "hp/plateforme",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "Controllers\\":"Controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronasdev",
+            "email": "ronasdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
